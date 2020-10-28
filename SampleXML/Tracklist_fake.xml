@@ -1,0 +1,17 @@
+<recordEvents length="2021.5267455">
+  <track tonality="c# min" artist="Artist 1" bpm="140" song="Song1">
+    <interval start="1.1" end="400.5"/>
+  </track>
+  <track tonality="c# min" artist="Artist 2" bpm="140" song="Song2">
+    <interval start="400.5" end="800"/>
+  </track>
+  <track tonality="c# min" artist="Artist 3" bpm="140" song="Song3">
+    <interval start="800" end="1000"/>
+  </track>
+  <track tonality="c# min" artist="Artist 4" bpm="140" song="Song4">
+    <interval start="1000" end="1400"/>
+  </track>
+  <track tonality="c# min" artist="Artist 5" bpm="140" song="Song5">
+    <interval start="1.400" end="1900"/>
+  </track>
+</recordEvents>

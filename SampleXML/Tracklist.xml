@@ -1,0 +1,36 @@
+<recordEvents length="2021.5267455">
+  <track tonality="c# min" artist="AJ Productions" bpm="140" song="No One">
+    <interval start="1.883709200000339" end="407.6489963000004"/>
+  </track>
+  <track tonality="f  min" artist="Angel City" bpm="137" song="Love Me Right (Desert Stormers Mix)">
+    <interval start="419.1117950000007" end="1035.069873"/>
+    <interval start="1150.0901175" end="1339.1059615"/>
+  </track>
+  <track tonality="c  min" artist="Ant Tester vs Platnum" bpm="135" song="You &amp; I (Bass Wobbler Mix)">
+    <interval start="685.8365246000003" end="706.6811636000002"/>
+  </track>
+  <track tonality="c  min" artist="Anthony White" bpm="125" song="Love Me Tonight (Gomez Club Mix)">
+    <interval start="712.5433290000001" end="726.327542"/>
+    <interval start="736.0392574000007" end="1445.1908947"/>
+  </track>
+  <track tonality="d# min" artist="Biggaboi Ft Jesskah Kyle" bpm="142" song="When I Saw U (2010 REMIX) (MASTER COPY)">
+    <interval start="1391.5699999" end="1395.6132018"/>
+  </track>
+  <track tonality="a  min" artist="BillyBoi" bpm="138" song="Johnny Bravo">
+    <interval start="1397.2589393" end="1404.4577638"/>
+  </track>
+  <track tonality="e  min" artist="Black Eyed Peas" bpm="135" song="I Got A Feeling [Bassline Remix]">
+    <interval start="1405.0981662" end="1406.8455824"/>
+  </track>
+  <track tonality="a  min" artist="Bliss &amp; Script" bpm="135" song="Honey Child (dj verteran mix)">
+    <interval start="1407.866340600001" end="1414.1933377"/>
+    <interval start="1419.1138708" end="1722.8650399"/>
+  </track>
+  <track tonality="c  min" artist="Blu Cantrell &amp; Sean Paul" bpm="138.15" song="Breathe (Timberland Boots 3 speedgarage)">
+    <interval start="1533.045985100001" end="1542.6036946"/>
+    <interval start="1688.3178697" end="2020.6340534"/>
+  </track>
+  <track tonality="a  min" artist="Artist" bpm="136" song="Track  2">
+    <interval start="4.030000036436832e-05" end="670.507087"/>
+  </track>
+</recordEvents>
